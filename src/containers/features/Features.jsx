@@ -4,20 +4,20 @@ import { Feature } from "../../components";
 
 const featuresData = [
   {
-    title: "Improving end distrusts instantly ",
-    text: "From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.",
+    title: "Inspire Innovation with GPT-3",
+    text: "Unleash innovation using GPT-3. From products to solutions, it sparks fresh ideas, propelling your endeavors to new horizons.",
   },
   {
-    title: "Become the tended active",
-    text: "Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.",
+    title: "Elevate Customer Interactions",
+    text: "GPT-3 redefines customer engagement. From intuitive virtual assistants to natural chatbots, it ensures seamless communication and satisfaction, fostering lasting brand loyalty.",
   },
   {
-    title: "Message or am nothing",
-    text: "Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.",
+    title: "Unleash Creativity Beyond Borders",
+    text: "With GPT-3, creativity knows no bounds. Effortlessly transcending languages, it transforms ideas into global expressions, from stories to poetry, connecting you with a diverse audience worldwide.",
   },
   {
-    title: "Really boy law county",
-    text: "Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush.",
+    title: "Transformative Learning Experiences",
+    text: "Step into the future of education with GPT-3. Adapting to various learning styles, it offers interactive lessons, instant explanations, and personalized tutoring. Break free from traditional constraints and let GPT-3 redefine your learning journey.",
   },
 ];
 
